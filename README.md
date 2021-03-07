@@ -9,7 +9,11 @@ This is an UI based implementation. To set up the project, follow the below step
 - Run in the terminal ```python run.py```
 
 ## How to Use
-The app will take several minutes to load for the first time. This is because it will create vectors from database images using deep learning model. Once done, go to the web browser and open ```http://0.0.0.0:5000```. In the page browse the query image and put the scope value. Then press ```Retrieve Images``` option. Then it will redirect to a new page and show the retrieved images for the given query image.
+The app will take several minutes to load for the first time. This is because it will create vectors from database images using deep learning model. Once done, go to the web browser and open ```http://0.0.0.0:5000```. This will open the below page.
+![](https://github.com/pidahbus/deepCBIR/blob/main/app/tmp/page-1.jpg)
+
+In this page browse the query image and put the scope value. Then press ```Retrieve``` option. Then it will redirect to a new page and show the retrieved images for the given query image as shown below.
+![](https://github.com/pidahbus/deepCBIR/blob/main/app/tmp/page-2.jpg)
 
 ## Citation
 This paper is submitted for journal publication. If you are using this repository then please use the below BibTeX to cite for now.
