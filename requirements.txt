@@ -1,0 +1,25 @@
+
+
+# deepCBIR/app/views.py: 1
+Flask == 1.0.2
+
+# deepCBIR/app/models.py: 9
+Pillow == 7.2.0
+
+# deepCBIR/app/models.py: 1
+loguru == 0.5.3
+
+# deepCBIR/app/models.py: 6,8
+matplotlib == 3.1.1
+
+# deepCBIR/app/models.py: 3
+numpy == 1.18.2
+
+# deepCBIR/app/models.py: 5
+pandas == 1.1.1
+
+# deepCBIR/app/models.py: 11,12,13
+tensorflow == 2.3.0
+
+# deepCBIR/app/models.py: 2
+tqdm == 4.48.2

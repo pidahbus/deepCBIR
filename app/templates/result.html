@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+{% block body %}
+
+<h2>Home</h2>
+
+<dl>
+    <img src="{{ url_for('get_images', filename='query.jpg') }}" alt="Query Image">
+    <br>
+    <br>
+    <img src="{{ url_for('get_images', filename='retrieved.jpg') }}" alt="Retrieved Image">
+</dl>
+
+
+<br>
+
+
+{% endblock %}
